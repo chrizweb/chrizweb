@@ -11,7 +11,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">El arte no es lo que ves, sino lo que haces que otros vean, la creatividad es algo más que ser diferente. Cualquiera puede pensar de forma extraña; eso es fácil. Lo difícil es ser tan sencillo para tocar la mente.</h3></summary>
+    <summary><h3 style="display: inline-block">❝El arte no es lo que ves, sino lo que haces que otros vean, la creatividad es algo más que ser diferente. Cualquiera puede pensar de forma extraña; eso es fácil. Lo difícil es ser tan sencillo para tocar la mente❞</h3></summary>
   </ul>
 </div>
 <hr>
