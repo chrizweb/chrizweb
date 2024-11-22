@@ -5,13 +5,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Christian Avilés</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Christian</h1></summary>
   </ul>
 </div>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">❝El arte no es lo que ves, sino lo que haces que otros vean, la creatividad es algo más que ser diferente. Cualquiera puede pensar de forma extraña; eso es fácil. Lo difícil es ser tan sencillo para tocar la mente❞</h3></summary>
+    <summary><h3 style="display: inline-block">❝Art is not what you see, but what you make others see, creativity is more than just being different. Anyone can think strangely; that's easy. The difficult thing is to be so simple to touch the mind❞</h3></summary>
   </ul>
 </div>
 <hr>
@@ -19,7 +19,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h3></summary>
+    <summary><h3 style="display: inline-block">Technologies I know👨🏻‍💻</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
